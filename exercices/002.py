@@ -1,25 +1,28 @@
 from libs.PyxelArt import *
 
-a = 2
-b = a
-c = 1
+colorier(0,4)
+colorier(2,4)
 
-for loop in range(5) :
-    if a != 4 :
-        colorier(a,1)
-    else :
-        colorier(a,2)
-    a = a + 1
-    
-for loop in range(3) :
-    colorier(1,b)
-    colorier(7,b)
-    b = b + 1
+a = 6
+b = 2
 
-colorier(4,7)
-for loop in range(2) :
-    colorier(4-c,7-c)
-    colorier(4+c,7-c)
+colorier(a,b)
+a = a + 1
+colorier(a,b)
+a = a + 1
+colorier(a,b)
+b = b + 1
+colorier(a,b)
+b = b + 1
+colorier(a,b)
+a = a - 1
+colorier(a,b)
+a = a - 1
+colorier(a,b)
+
+c = 0
+for loop in range(7) :
+    colorier(c,3)
     c = c + 1
-    
+
 ss()
