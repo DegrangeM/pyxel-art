@@ -21,5 +21,5 @@ for loop in range(2) :
     colorier(4-c,7-c)
     colorier(4+c,7-c)
     c = c + 1
-    
+
 ss()

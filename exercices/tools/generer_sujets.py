@@ -9,7 +9,6 @@ for f in os.listdir("../"):
     if os.path.isfile("../" + f):
         with open('../' + f, 'r') as c :
             with open('../sujets/'+f.split('.')[0]+'.png', 'wb') as i:
-                
                 code = c.readlines()
                 
                 code = code[1:-1] # on retire la première (import) et dernière (ss) ligne

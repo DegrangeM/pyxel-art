@@ -29,5 +29,5 @@ colorier(1,3)
 colorier(2,4)
 colorier(6,4)
 colorier(7,3)
-    
+
 ss()
