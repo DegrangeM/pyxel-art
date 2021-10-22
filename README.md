@@ -8,17 +8,17 @@ Pyxel-Art est à la fois une bibliothèque permettant de créer des exercices co
 
 La grille ci-dessous est données aux élèves :
 
-<img src="https://user-images.githubusercontent.com/53106394/132256944-e0aa843a-f729-4e3f-8522-48c9dc8735f2.png" width="400" />
+<img src="https://user-images.githubusercontent.com/53106394/138447368-fda4e02f-c046-489f-a625-06a553f255e1.png" />
 
 Ainsi qu'un programme Python :
 
-![image](https://user-images.githubusercontent.com/53106394/132256741-9cd2c81c-0af4-421b-99ef-b27e183e0fd1.png)
+<img src="https://user-images.githubusercontent.com/53106394/138447331-b49f9064-02b0-4fcd-9ef4-ace36e40d693.png" width="200" />
 
 Les élèves doivent alors exécuter le programme dans leur tête et en déduire le pixel-art obtenu.
 
 La bibliothèque permet de générer automatiquement une correction de l'exercice :
 
-<img src="https://user-images.githubusercontent.com/53106394/132256753-5725039b-a575-4d73-939d-996f8784726f.png" width="400" />
+<img src="https://user-images.githubusercontent.com/53106394/138447375-97773530-6f5d-4645-9e03-13130189fe4b.png" />
 
 ## Organisation des fichiers
 
