@@ -19,7 +19,6 @@ colorier(d,e)
 
 colorier(a,4)
 colorier(e,4)
-colorier(a,4)
 colorier(4,4)
 colorier(d,4)
 colorier(c,4)
