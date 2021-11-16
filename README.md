@@ -1,30 +1,28 @@
-# Alien-Python
+# Pyxel-Art
 
-Alien-Python est à la fois une bibliothèque permettant de créer des exercices corrigés de programmation où les élèves doivent deviner la case d'arrivée d'un alien se déplaçant suivant un programme Python et à la fois une collection d'exercices basés sur cette bibliothèque. Ces exercices peuvent être utilisés pour des activités débranchées.
+Pyxel-Art est à la fois une bibliothèque permettant de créer des exercices corrigés de programmation où les élèves doivent suivre un programme python dessinant un pixel-art et à la fois une collection d'exercices basés sur cette bibliothèque. Ces exercices peuvent être utilisés pour des activités débranchées.
 
-30 exercices de bases sont fournis. Ils sont disponibles dans les dossiers `exercices/sujets` et `exercices/corrections`.
+11 exercices de bases sont fournis. Ils sont disponibles dans les dossiers `exercices/sujets` et `exercices/corrections`.
 
-- Les exercices 1 à 8 portent sur les déplacements et l'utilisation des variables
-
-- Les exercices 9 à 20 portent sur les boucles de répétition.
-
-- Les exercices 21 à 35 portent sur les conditions
+- Les exercices 1 à 11 portent sur l'utilisation des variables et des boucles de répétitions (remarque : les compteurs des boucles for ne sont volontairement pas exploitées)
 
 La grille ci-dessous est données aux élèves :
 
-<img src="https://user-images.githubusercontent.com/53106394/132256944-e0aa843a-f729-4e3f-8522-48c9dc8735f2.png" width="400" />
+<img src="https://user-images.githubusercontent.com/53106394/138447368-fda4e02f-c046-489f-a625-06a553f255e1.png" />
 
 Ainsi qu'un programme Python :
 
-![image](https://user-images.githubusercontent.com/53106394/132256741-9cd2c81c-0af4-421b-99ef-b27e183e0fd1.png)
+<img src="https://user-images.githubusercontent.com/53106394/138447331-b49f9064-02b0-4fcd-9ef4-ace36e40d693.png" width="200" />
 
-Les élèves doivent alors exécuter le programme dans leur tête et en déduire la case sur laquelle l'alien s'arrêtera à la fin de l'exécution du programme.
+Les élèves doivent alors exécuter le programme dans leur tête et en déduire le pixel-art obtenu.
 
 La bibliothèque permet de générer automatiquement une correction de l'exercice :
 
-<img src="https://user-images.githubusercontent.com/53106394/132256753-5725039b-a575-4d73-939d-996f8784726f.png" width="400" />
+<img src="https://user-images.githubusercontent.com/53106394/138447375-97773530-6f5d-4645-9e03-13130189fe4b.png" />
 
 ## Organisation des fichiers
+
+*à compléter*
 
 - À la racine se trouve un fichier `alien.pdf` à distribuer aux élèves. Ce fichier contient la grille de déplacement de l'alien ainsi que 20 cases réponses.
 
