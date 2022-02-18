@@ -16,7 +16,6 @@ colorier(5,6)
 for y in range(4,7) :
         colorier(6,y)
 colorier(1,7)
-colorier(1,7)
 colorier(0,5)
 colorier(2,5)
 colorier(1,6)
