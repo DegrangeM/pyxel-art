@@ -2,7 +2,7 @@
 
 Pyxel-Art est à la fois une bibliothèque permettant de créer des exercices corrigés de programmation où les élèves doivent suivre un programme python dessinant un pixel-art et à la fois une collection d'exercices basés sur cette bibliothèque. Ces exercices peuvent être utilisés pour des activités débranchées.
 
-11 exercices de bases sont fournis. Ils sont disponibles dans les dossiers `exercices/sujets` et `exercices/corrections`.
+17 exercices de bases sont fournis. Ils sont disponibles dans les dossiers `exercices/sujets` et `exercices/corrections`.
 
 - Les exercices 1 à 11 portent sur l'utilisation des variables et des boucles de répétitions (remarque : les compteurs des boucles for ne sont volontairement pas exploitées)
 
@@ -21,6 +21,8 @@ Les élèves doivent alors exécuter le programme dans leur tête et en déduire
 La bibliothèque permet de générer automatiquement une correction de l'exercice :
 
 <img src="https://user-images.githubusercontent.com/53106394/138447375-97773530-6f5d-4645-9e03-13130189fe4b.png" />
+
+Vous pouvez retrouver l'ensemble des exercices de bases fournis ainsi que leur correction sur le [wiki](https://github.com/DegrangeM/pyxel-art/wiki/Solutions).
 
 ## Organisation des fichiers
 
