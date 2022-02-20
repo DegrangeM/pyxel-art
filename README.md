@@ -64,6 +64,4 @@ Exécuter le programme dans le dossier tool permettra de générer le programme 
 
 ## License
 
-Alien-Python est sous license MIT.
-
-Les images d'aliens ont été réalisées par [Kenney](https://www.kenney.nl/assets/platformer-pack-redux) et sont sous license C0.
+Pyxel-Art est sous license MIT.
