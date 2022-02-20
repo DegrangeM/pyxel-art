@@ -6,6 +6,8 @@ Pyxel-Art est à la fois une bibliothèque permettant de créer des exercices co
 
 - Les exercices 1 à 11 portent sur l'utilisation des variables et des boucles de répétitions (remarque : les compteurs des boucles for ne sont volontairement pas exploitées)
 
+- Les exercices 12 à 17 portent sur l'utilisaiton des boucles for généralisées (utilisation des compteurs)
+
 La grille ci-dessous est données aux élèves :
 
 <img src="https://user-images.githubusercontent.com/53106394/138447368-fda4e02f-c046-489f-a625-06a553f255e1.png" />
