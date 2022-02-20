@@ -2,7 +2,6 @@ from libs.PyxelArt import *
 
 a = 1
 
-
 for loop in range(7) :
     colorier(a,0)
     colorier(a,8)
