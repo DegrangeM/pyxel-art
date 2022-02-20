@@ -24,9 +24,12 @@ La bibliothèque permet de générer automatiquement une correction de l'exercic
 
 Vous pouvez retrouver l'ensemble des exercices de bases fournis ainsi que leur correction sur le [wiki](https://github.com/DegrangeM/pyxel-art/wiki/Solutions).
 
-## Organisation des fichiers
+Deux fiches d'exercices prêtes à l'emploi sont disponibles :
 
-*à compléter*
+- [Fiche n°1](https://github.com/DegrangeM/pyxel-art/blob/master/pyxel-art.pdf)
+- [Fiche n°2](https://github.com/DegrangeM/pyxel-art/blob/master/pyxel-art-2.pdf)
+
+## Organisation des fichiers
 
 - À la racine se trouve un fichier `alien.pdf` à distribuer aux élèves. Ce fichier contient la grille de déplacement de l'alien ainsi que 20 cases réponses.
 
