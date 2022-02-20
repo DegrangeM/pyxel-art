@@ -26,9 +26,9 @@ La bibliothèque permet de générer automatiquement une correction de l'exercic
 
 ## Organisation des fichiers
 
-- À la racine se trouve un fichier `alien.pdf` à distribuer aux élèves. Ce fichier contient la grille de déplacement de l'alien ainsi que 20 cases réponses.
+- À la racine se trouve deux fiches d'exercices prêtes à l'emploi.
 
-- Le dossier `exercices` contient les 20 exercices de bases
+- Le dossier `exercices` contient les 17 exercices de bases
 
   - Le dossier `sujets` contient les programmes au format image
 
@@ -36,13 +36,17 @@ La bibliothèque permet de générer automatiquement une correction de l'exercic
 
   - Le dossier `corrections` contient la correction des exercices
     
-    - Le fichier `0.png` contient la grille de base avec l'alien 
+    - Le fichier `0.png` contient la grille de base 
+
+    - Les fichiers `XXX.png` contiennent le Pyxel-art obtenu
+    
+    - Les fichiers `XXX.png` contiennent la correction détaillées où est indiqué dans chaque case la ligne de code ayant servie à la colorier
 
   - Le dossier `libs` contient la librairie de base permettant de générer les corrections
 
   - Le dossier `tools` contient un fichier à exécuter pour générer les énoncés des programmes au format image
 
-- Le dossier `ressources` contient les diverses ressources nécessaires au projet (images, polices, etc.)
+- Le dossier `ressources` contient les diverses ressources nécessaires au projet (polices, etc.)
 
 - Le dossier `autres` contient divers fichiers en vrac
 
