@@ -47,7 +47,7 @@ class PyxelArt :
             line = inspect.currentframe().f_back.f_lineno
             if not line in self.lines :
                 self.lines.append(line)
-            color = 'hsl(%d, 100%%, 75%%)' % (int(len(self.lines)/15*360))
+            color = 'hsl(%d, 100%%, 75%%)' % (int(self.lines.index(line)/15*360))
         else :
             color = (150, 150, 150)
         self.draw.rectangle([
