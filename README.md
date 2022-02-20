@@ -2,12 +2,21 @@
 
 Pyxel-Art est à la fois une bibliothèque permettant de créer des exercices corrigés de programmation où les élèves doivent suivre un programme python dessinant un pixel-art et à la fois une collection d'exercices basés sur cette bibliothèque. Ces exercices peuvent être utilisés pour des activités débranchées.
 
+## La banque d'exercice
 17 exercices de bases sont fournis. Ils sont disponibles dans les dossiers `exercices/sujets` et `exercices/corrections`.
 
 - Les exercices 1 à 11 portent sur l'utilisation des variables et des boucles de répétitions (remarque : les compteurs des boucles for ne sont volontairement pas exploitées)
 
 - Les exercices 12 à 17 portent sur l'utilisaiton des boucles for généralisées (utilisation des compteurs)
 
+Vous pouvez retrouver l'ensemble des exercices de bases fournis ainsi que leur correction sur le [wiki](https://github.com/DegrangeM/pyxel-art/wiki/Solutions).
+
+Deux fiches d'exercices prêtes à l'emploi sont disponibles :
+
+- [Fiche n°1](https://github.com/DegrangeM/pyxel-art/blob/master/pyxel-art.pdf) - Exercices 1 à 11
+- [Fiche n°2](https://github.com/DegrangeM/pyxel-art/blob/master/pyxel-art-2.pdf) - Exercice 12 à 17
+
+## Le principe des exercices
 La grille ci-dessous est données aux élèves :
 
 <img src="https://user-images.githubusercontent.com/53106394/138447368-fda4e02f-c046-489f-a625-06a553f255e1.png" />
@@ -22,12 +31,6 @@ La bibliothèque permet de générer automatiquement une correction de l'exercic
 
 <img src="https://user-images.githubusercontent.com/53106394/138447375-97773530-6f5d-4645-9e03-13130189fe4b.png" />
 
-Vous pouvez retrouver l'ensemble des exercices de bases fournis ainsi que leur correction sur le [wiki](https://github.com/DegrangeM/pyxel-art/wiki/Solutions).
-
-Deux fiches d'exercices prêtes à l'emploi sont disponibles :
-
-- [Fiche n°1](https://github.com/DegrangeM/pyxel-art/blob/master/pyxel-art.pdf) - Exercices 1 à 11
-- [Fiche n°2](https://github.com/DegrangeM/pyxel-art/blob/master/pyxel-art-2.pdf) - Exercice 12 à 17
 
 ## Organisation des fichiers
 
