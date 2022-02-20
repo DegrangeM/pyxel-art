@@ -8,7 +8,7 @@ a = a + 1
 colorier(a,2)
 for x in range(1,9) :
     colorier(x,8)
-for y in range(2,9) :
+for y in range(2,8) :
     colorier(8,y)
 for y in range(2,7) :
     colorier(4,y)
