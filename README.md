@@ -26,8 +26,8 @@ Vous pouvez retrouver l'ensemble des exercices de bases fournis ainsi que leur c
 
 Deux fiches d'exercices prêtes à l'emploi sont disponibles :
 
-- [Fiche n°1](https://github.com/DegrangeM/pyxel-art/blob/master/pyxel-art.pdf)
-- [Fiche n°2](https://github.com/DegrangeM/pyxel-art/blob/master/pyxel-art-2.pdf)
+- [Fiche n°1](https://github.com/DegrangeM/pyxel-art/blob/master/pyxel-art.pdf) - Exercices 1 à 11
+- [Fiche n°2](https://github.com/DegrangeM/pyxel-art/blob/master/pyxel-art-2.pdf) - Exercice 12 à 17
 
 ## Organisation des fichiers
 
