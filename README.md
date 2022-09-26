@@ -6,7 +6,7 @@ Pyxel-Art est une banque d'exercices corrigés de programmation où les élèves
 Vous pouvez retrouver l'ensemble des exercices de bases fournis ainsi que leur correction sur le [wiki](https://github.com/DegrangeM/pyxel-art/wiki/Solutions-aux-exercices-de-base). Il y a au total 17 et ceux-ci sont disponibles dans les dossiers `exercices/sujets` et `exercices/corrections`. Deux fiches prêtes à l'emploi contenant ces exercices sont disponibles.
 
 - [Fiche n°1](https://github.com/DegrangeM/pyxel-art/blob/master/pyxel-art.pdf) – Exercices `1` à `11` portant sur l'utilisation des variables et des boucles de répétitions (remarque : les compteurs des boucles for ne sont volontairement pas exploitées)
-- [Fiche n°2](https://github.com/DegrangeM/pyxel-art/blob/master/pyxel-art-2.pdf) – Exercice `12` à `17` portant sur l'utilisaiton des boucles for généralisées (utilisation des compteurs)
+- [Fiche n°2](https://github.com/DegrangeM/pyxel-art/blob/master/pyxel-art-2.pdf) – Exercice `12` à `17` portant sur l'utilisation des boucles for généralisées (utilisation des compteurs)
 
 ## Le principe des exercices
 La grille ci-dessous est données aux élèves :
