@@ -1,3 +1,5 @@
+<a href="https://github.com/DegrangeM/pyxel-art/archive/refs/heads/master.zip"><img src="https://shields.io/badge/%20%20T%C3%A9l%C3%A9charger-.zip-green?logo=gitlfs&&logoColor=white&style=flat"></a>
+
 # Pyxel-Art
 
 Pyxel-Art est une banque d'exercices corrigés de programmation où les élèves doivent suivre un programme python dessinant un pixel-art. Ces exercices peuvent être utilisés pour des activités débranchées. Il est aussi possible de créer ses propres exercices via une bibliothèque intégrée qui permet de générer automatiquement les images de correction.
